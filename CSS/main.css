@@ -1,0 +1,26 @@
+.site-header{
+    background: cadetblue;
+    color:#ffffff9f;
+    height:100%;
+    font-family:monospace;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+}
+.profile-pic{
+   border-radius:50%;
+   width:200px;
+   height:200px;
+   align-self: center;
+   box-shadow: #0E3B3D 4px 9px 20px;
+}
+body{
+    margin: 0;
+} 
+.site-header-content{
+    margin: 10px;
+}
+.my-link{
+    color:#ffffff9f;
+}
